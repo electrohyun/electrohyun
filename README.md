@@ -2,6 +2,9 @@
 
 인덕대학교 컴퓨터소프트웨어학과에서 공부하고 있는 대학생입니다. 현재 **모던 애자일 10기** 소속으로 다양한 코딩 테스트 과제를 풀고 있습니다.
 
+![image](https://github.com/user-attachments/assets/526d3fbb-5eec-4421-aa9c-2758bf085f1d)
+
+
 ## 🌟 기술 스택
 - JavaScript
 
