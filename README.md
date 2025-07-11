@@ -1,15 +1,14 @@
 # 👋 안녕하세요. electrohyun입니다.
 
-인덕대학교 컴퓨터소프트웨어학과에서 공부하고 있는 대학생입니다. 현재 **모던 애자일 10기** 소속으로 다양한 코딩 테스트 과제를 풀고 있습니다.
+인덕대학교 컴퓨터소프트웨어학과에서 공부하고 있는 정기현입니다. 현재 인덕대학교의 IT 개발 전문 동아리 **모던 애자일 10기** 프론트 담당으로 미니 프로젝트를 준비중입니다.
 
-![image](https://github.com/user-attachments/assets/526d3fbb-5eec-4421-aa9c-2758bf085f1d)
-
+<img width="807" height="707" alt="image" src="https://github.com/user-attachments/assets/6c2e8bbe-519e-41c7-bbce-e92064386062" />
 
 ## 🌟 기술 스택
-- JavaScript
+- JavaScript, React
 
 ## 🏆 현재 진행 중인 활동
-- 모던 애자일 10기 활동
+- 인덕대학교 모던 애자일 10기 프론트엔드 개발 담당
 
 ## 📈 GitHub 활동
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=electrohyun&show_icons=true&theme=tokyonight)
