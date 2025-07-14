@@ -14,7 +14,7 @@
 
 ## 🏆 현재 진행 중인 활동
 - 인덕대학교 모던 애자일 10기 프론트엔드 개발 담당
-- 인디 게임 'Starlit Witch' 개발 중
+- Unity 3D 'Starlit Witch' 개발 중
 
 ## 📈 GitHub 활동
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=electrohyun&show_icons=true&theme=tokyonight)
