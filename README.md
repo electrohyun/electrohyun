@@ -6,7 +6,7 @@
 
 작은 규모의 팀으로 Unity 3D 게임을 개발하고 있습니다.
 
-<img width="807" height="707" alt="image" src="https://github.com/user-attachments/assets/6c2e8bbe-519e-41c7-bbce-e92064386062" />
+<a href="https://imgflip.com/i/a0q15h"><img src="https://i.imgflip.com/a0q15h.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div>
 
 ## 🌟 기술 스택
 - JavaScript, TypeScript
