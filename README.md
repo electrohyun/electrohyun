@@ -6,8 +6,6 @@
 
 2인 팀으로 Unity 3D 게임을 개발하고 있습니다.
 
-<img width="500" height="756" alt="image" src="https://github.com/user-attachments/assets/365be735-bcec-4f6b-8f95-499a4f6968e5" />
-
 
 ## 🌟 기술 스택
 - JavaScript, TypeScript
