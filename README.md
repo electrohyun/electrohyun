@@ -1,4 +1,5 @@
 # 👋 소개
+<img width="500" height="399" alt="image" src="https://github.com/user-attachments/assets/4eebed88-2122-49bb-81b7-fc659267077e" />
 
 안녕하세요! 저는 인덕대학교 컴퓨터소프트웨어학과에 재학 중인 정기현입니다.
 
