@@ -6,7 +6,7 @@
 
 현재 인덕대학교의 IT 개발 전문 동아리 **Modern Agile**의 10기 프론트 개발을 맡고 있으며 
 
-`Socket.IO`기반의 실시간 그림 대결 게임 ['폴리카소(Pollycasso)'](https://github.com/modern-agile-team/10term-pollycasso-front) 프로젝트를 진행중입니다.
+`Socket.IO`기반의 실시간 그림 대전 게임 ['폴리카소(Pollycasso)'](https://github.com/modern-agile-team/10term-pollycasso-front) 프로젝트를 진행중입니다.
 
 ## 🌟 기술 스택
 - JavaScript, TypeScript
