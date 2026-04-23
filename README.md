@@ -43,7 +43,5 @@
 - 리눅스마스터 2급 (2019)
 
 ## 🍀 Problem Solving
-<a href="https://solved.ac/muirtsig">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=muirtsig" alt="Solved.ac Tier" />
-</a>
+<img width="560" height="244" alt="solvedac-muirtsig-v2" src="https://github.com/user-attachments/assets/e3b5bc03-5784-48a4-a75a-2c8fc60984da" />
 
