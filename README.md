@@ -20,15 +20,6 @@
 | Socket.IO 기반 드로잉 웹게임 '[폴리카소(Pollycasso)](https://github.com/modern-agile-team/10term-pollycasso-front)' | 2025.09. - 2026.02. | Modern Agile 10term |
 | 인덕대학교 웹 개발 동아리 '[모던 애자일](https://github.com/modern-agile-team)' 10기 프론트 팀장 | 2025.06. - 2026.02. | Modern Agile 10term |
 
-## 🗣️ 테크톡(지식 공유)
-| | |
-| :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/2b9a6d79-edb2-499b-96a6-5295d7fe7922" width="300"> | <img src="https://github.com/user-attachments/assets/5931c4d5-3898-4159-84c3-55cdef16fde1" width="300"> |
-| **[번들러와 Web 성능](https://youtu.be/YsURA7f8IJM?si=93Xyu32BiOyHa_mg)** | **[Ajax](https://youtu.be/enV_LeQzSYc?si=BdngaAKHNvzX1Gne)** |
-| <img src="https://github.com/user-attachments/assets/67a3a5c8-3988-401f-8c42-aca26edbdd7a" width="300"> | <img src="https://github.com/user-attachments/assets/503c5e37-411d-476c-86f7-9b4b48138ba7" width="300"> |
-| **[애자일](https://www.youtube.com/watch?v=ON_WVCY5LTs)** | **[CSR vs SSR](https://youtu.be/RAL_gxCknrg?si=1lMWVb8gVEGXyN4a)** |
-
-
 ## 🏆 수상 이력
 
 - **🏅 24-2 컴퓨터소프트웨어학과 DBMS 경진대회 최우수상**
