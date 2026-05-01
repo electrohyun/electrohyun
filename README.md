@@ -1,3 +1,5 @@
+<img width="1983" height="793" alt="ChatGPT Image 2026년 5월 1일 오후 11_03_14" src="https://github.com/user-attachments/assets/7be4ad26-651f-4127-8111-f1c5e4b85d1a" />
+
 # 👋 소개
 
 안녕하세요! 저는 Next.js, React 및 TypeScript를 위주로 프론트엔드 개발을 공부하고 있는 인덕대학교 컴퓨터소프트웨어학과 학부생 정기현입니다.
