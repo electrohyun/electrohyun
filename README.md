@@ -16,7 +16,7 @@
 
 | Activities | Date | Organization |
 | ----------------- | ----------------- | ----------------- |
-| Git 학습 튜토리얼 게임 '[꼬깃(GGoGit)](https://github.com/electrohyun/ggogit)' | 2026.03. - 2026.06. | Independent |
+| Git 학습 튜토리얼 게임 '[꼬깃(GGoGit)](https://github.com/electrohyun/ggogit)' | 2026.05. - 2026.06. | Independent |
 | Socket.IO 기반 드로잉 웹게임 '[폴리카소(Pollycasso)](https://github.com/modern-agile-team/10term-pollycasso-front)' | 2025.09. - 2026.02. | Modern Agile 10term |
 | 인덕대학교 웹 개발 동아리 '[모던 애자일](https://github.com/modern-agile-team)' 10기 프론트 팀장 | 2025.06. - 2026.02. | Modern Agile 10term |
 
