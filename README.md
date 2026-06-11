@@ -26,6 +26,7 @@
 - **🏅 25-2 인덕대학교 성적 우수상장**
 - 🥈 25-2 컴퓨터소프트웨어학과 AWS 서비스 활용능력 경진대회 우수상
 - 🥈 25-2 컴퓨터소프트웨어학과 Laravel 웹 솔루션 경진대회 은상
+- **🏅 26-1 컴퓨터소프트웨어학과 React 웹 프론트엔드 개발 경진대회 최우수상**
 
 ## 🪪 자격증
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/2a80c4c8-1a9c-4546-aff7-c3763531e200" />
