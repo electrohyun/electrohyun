@@ -1,4 +1,4 @@
-<img width="1983" height="793" alt="프로필 사진 이미지" src="https://github.com/user-attachments/assets/7be4ad26-651f-4127-8111-f1c5e4b85d1a" />
+<img width="1983" height="793" alt="Profile Header" src="https://github.com/user-attachments/assets/7be4ad26-651f-4127-8111-f1c5e4b85d1a" />
 
 # 👋 소개
 
@@ -10,9 +10,11 @@
 
 | Activities | Date | Organization |
 | ----------------- | ----------------- | ----------------- |
-| AI Re-Local 해커톤 | 2026.06. - 2026.07. | 한국고등직업교육학회 |
+| Git 학습 그래프 시각화 게임 '[꼬깃(GGoGit) v1.0](https://github.com/electrohyun/ggogit)' | 2026.06. - ing | Independent |
+| AI Re-Local 해커톤 | 2026.06. | 한국고등직업교육학회 |
+| 프론트엔드 계층 import를 위한 ESLint 플러그인: [eslint-plugin-layered-imports](https://github.com/electrohyun/eslint-plugin-layered-imports) | 2026.06. | Independent |
 | 2026 오픈소스 컨트리뷰션 아카데미 체험형 멘티 ([ko.javascript.info](https://github.com/javascript-tutorial/ko.javascript.info)) | 2026.05. - 2026.06. | Open UP, 과학기술정보통신부 |
-| Git 학습 튜토리얼 게임 '[꼬깃(GGoGit)](https://github.com/electrohyun/ggogit)' | 2026.05. - 2026.06. | Independent |
+| Git 학습 튜토리얼 퀴즈 게임 '[꼬깃(GGoGit) v0.5](https://github.com/electrohyun/ggogit)' | 2026.05. - 2026.06. | Independent |
 | Socket.IO 기반 드로잉 웹게임 '[폴리카소(Pollycasso)](https://github.com/modern-agile-team/10term-pollycasso-front)' | 2025.09. - 2026.02. | Modern Agile 10term |
 | 인덕대학교 웹 개발 동아리 '[모던 애자일](https://github.com/modern-agile-team)' 10기 프론트 팀장 | 2025.06. - 2026.02. | Modern Agile 10term |
 
