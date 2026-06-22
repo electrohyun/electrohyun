@@ -10,7 +10,7 @@
 
 | Activities | Date | Organization |
 | ----------------- | ----------------- | ----------------- |
-| 빛나는 인재 AI Re-Local 해커톤 | 2026.06. - 2026.07. | 한국고등직업교육학회 |
+| AI Re-Local 해커톤 | 2026.06. - 2026.07. | 한국고등직업교육학회 |
 | 2026 오픈소스 컨트리뷰션 아카데미 체험형 멘티 ([ko.javascript.info](https://github.com/javascript-tutorial/ko.javascript.info)) | 2026.05. - 2026.06. | Open UP, 과학기술정보통신부 |
 | Git 학습 튜토리얼 게임 '[꼬깃(GGoGit)](https://github.com/electrohyun/ggogit)' | 2026.05. - 2026.06. | Independent |
 | Socket.IO 기반 드로잉 웹게임 '[폴리카소(Pollycasso)](https://github.com/modern-agile-team/10term-pollycasso-front)' | 2025.09. - 2026.02. | Modern Agile 10term |
