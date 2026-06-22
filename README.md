@@ -30,10 +30,10 @@
 - 🥈 25-2 컴퓨터소프트웨어학과 Laravel 웹 솔루션 경진대회 은상
 - **🏅 26-1 컴퓨터소프트웨어학과 React 웹 프론트엔드 개발 경진대회 최우수상**
 
-## 🪪 자격증
+## 🪪 자격증 & 교육
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/2a80c4c8-1a9c-4546-aff7-c3763531e200" />
 
-- Claude Code In Action 수료 (2026)
+- Claude Code In Action (2026)
 - AWS Certified Cloud Practitioner (2025)
 - 네트워크관리사 2급 (2024)
 - 리눅스마스터 2급 (2019)
