@@ -11,6 +11,7 @@
 | Activities | Date | Organization |
 | ----------------- | ----------------- | ----------------- |
 | Git 학습 그래프 시각화 게임 '[꼬깃(GGoGit) v1.0](https://github.com/electrohyun/ggogit)' | 2026.06. - ing | Team GGoGit (Independent) |
+| 2026 오픈소스 컨트리뷰션 아카데미 참여형 멘티 ([ESLint & ESLint Community](https://github.com/eslint/eslint)) | 2026.05. - 2026.06. | Open UP, 과학기술정보통신부 |
 | AI Re-Local 해커톤 | 2026.06. | 한국고등직업교육학회 |
 | 프론트엔드 계층 import를 위한 ESLint 플러그인: [eslint-plugin-layered-imports](https://github.com/electrohyun/eslint-plugin-layered-imports) | 2026.06. | Independent |
 | 2026 오픈소스 컨트리뷰션 아카데미 체험형 멘티 ([ko.javascript.info](https://github.com/javascript-tutorial/ko.javascript.info)) | 2026.05. - 2026.06. | Open UP, 과학기술정보통신부 |
