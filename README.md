@@ -12,7 +12,7 @@
 | ----------------- | ----------------- | ----------------- |
 | Git 학습 그래프 시각화 게임 '[꼬깃(GGoGit) v1.0](https://github.com/electrohyun/ggogit)' | 2026.06. - ing | Team GGoGit (Independent) |
 | 2026 오픈소스 컨트리뷰션 아카데미 참여형 멘티 ([ESLint & ESLint Community](https://github.com/eslint/eslint)) | 2026.06. - 2026.10. | Open UP, 과학기술정보통신부, 정보통신산업진흥원 |
-| AI Re-Local 해커톤 | 2026.06. | 한국고등직업교육학회 |
+| 2026 빛나는 인재 AI Re-Local 해커톤 | 2026.06. | 한국고등직업교육학회, 제주 더큰내일센터 |
 | 프론트엔드 계층 import를 위한 ESLint 플러그인: [eslint-plugin-layered-imports](https://github.com/electrohyun/eslint-plugin-layered-imports) | 2026.06. | Independent |
 | 2026 오픈소스 컨트리뷰션 아카데미 체험형 멘티 ([ko.javascript.info](https://github.com/javascript-tutorial/ko.javascript.info)) | 2026.05. - 2026.06. | Open UP, 과학기술정보통신부, 정보통신산업진흥원 |
 | Git 학습 튜토리얼 퀴즈 게임 '[꼬깃(GGoGit) v0.5](https://github.com/electrohyun/ggogit)' | 2026.05. - 2026.06. | Team GGoGit (Independent) |
@@ -24,13 +24,13 @@
 - **🏅 24-2 컴퓨터소프트웨어학과 DBMS 경진대회 최우수상**
 - **🏅 24-2 컴퓨터소프트웨어학과 C++ 언어 사용설명서 경진대회 최우수상**
 - **🏅 25-1 컴퓨터소프트웨어학과 온라인 쇼핑몰개발 경진대회 최우수상**
-- **🏅 25-1 인덕대학교 성적 우수상장**
+- **🏅 25-1 컴퓨터소프트웨어학과 성적 최우수상**
 - **🏅 25-2 컴퓨터소프트웨어학과 Analyze Festa 데이터 분석 경진대회 데이터마스터상**
-- **🏅 25-2 인덕대학교 성적 우수상장**
+- **🏅 25-2 컴퓨터소프트웨어학과 성적 최우수상**
 - 🥈 25-2 컴퓨터소프트웨어학과 AWS 서비스 활용능력 경진대회 우수상
 - 🥈 25-2 컴퓨터소프트웨어학과 Laravel 웹 솔루션 경진대회 은상
 - **🏅 26-1 컴퓨터소프트웨어학과 React 웹 프론트엔드 개발 경진대회 최우수상**
-- 🥈 2026 한국고등직업교육학회 빛나는 인재 AI-Re Local 해커톤 창의상(5팀 중 2등)
+- 🥈 2026 빛나는 인재 AI-Re Local 해커톤 창의상(5팀 중 2등, 팀 내 MVP 선정)
 
 ## 🪪 자격증 & 교육
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/2a80c4c8-1a9c-4546-aff7-c3763531e200" />
