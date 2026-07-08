@@ -31,6 +31,7 @@
 - 🥈 25-2 컴퓨터소프트웨어학과 Laravel 웹 솔루션 경진대회 은상
 - **🏅 26-1 컴퓨터소프트웨어학과 React 웹 프론트엔드 개발 경진대회 최우수상**
 - 🥈 2026 빛나는 인재 AI-Re Local 해커톤 창의상(5팀 중 2등, 팀 내 MVP 선정)
+  - [📰 제주에 모인 대학생들 소외계층 문제 해법 ‘쏙쏙’](https://www.jejumaeil.net/news/articleView.html?idxno=402552)
 
 ## 🪪 자격증 & 교육
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/2a80c4c8-1a9c-4546-aff7-c3763531e200" />
