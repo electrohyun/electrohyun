@@ -10,7 +10,7 @@
 
 | Activities | Date | Organization |
 | ----------------- | ----------------- | ----------------- |
-| Socket.IO의 배달 규칙을 재현하는 프론트엔드 Socket Mocking 라이브러리 '[smocket](https://github.com/electrohyun/smocket)' | 2026.06. - ing | Independent |
+| Socket.IO의 배달 규칙을 재현하는 프론트엔드 Socket Mocking 오픈소스 라이브러리 '[smocket](https://github.com/electrohyun/smocket)' | 2026.06. - ing | Independent |
 | 2026 오픈소스 컨트리뷰션 아카데미 참여형 멘티 ([ESLint & ESLint Community](https://github.com/eslint/eslint)) | 2026.06. - 2026.10. | Open UP, 과학기술정보통신부, 정보통신산업진흥원 |
 | 제주지역 다문화 산모를 위한 응급 SMS 신고 서비스 '아강(Agang)' 개발 - 2026 빛나는 인재 AI Re-Local 해커톤 | 2026.06. | 한국고등직업교육학회, 제주 더큰내일센터 |
 | 프론트엔드 계층 import를 위한 ESLint 플러그인: [eslint-plugin-layered-imports](https://github.com/electrohyun/eslint-plugin-layered-imports) | 2026.06. | Independent |
