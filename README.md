@@ -15,7 +15,7 @@ Next.js 및 React를 위주로 프론트엔드 개발을 공부하고 있는 인
 
 ## Open Source
 
-- 프론트엔드 Socket Mocking 라이브러리 '[smocket](https://github.com/electrohyun/smocket)' (2026.06. - 진행 중)
+- 프론트엔드 Socket.IO Mocking 라이브러리 '[smocket](https://github.com/electrohyun/smocket)' (2026.06. - 진행 중)
 - 프론트엔드 계층 import 검사 ESLint 플러그인 '[eslint-plugin-layered-imports](https://github.com/electrohyun/eslint-plugin-layered-imports)' (2026.06.)
 - 2026 오픈소스 컨트리뷰션 아카데미 참여형 멘티 '[ESLint & ESLint Community](https://github.com/eslint/eslint)' (2026.06. - 2026.10.)
 - 2026 오픈소스 컨트리뷰션 아카데미 체험형 멘티 '[ko.javascript.info](https://github.com/javascript-tutorial/ko.javascript.info)' (2026.05. - 2026.06.)
