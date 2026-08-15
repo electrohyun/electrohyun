@@ -8,7 +8,7 @@ Next.js 및 React를 위주로 프론트엔드 개발을 공부하고 있는 인
 
 ## Projects
 
-- Git 학습 튜토리얼 퀴즈 게임 '[꼬깃(GGoGit)](https://github.com/electrohyun/ggogit)' (2026.05. - 2026.06.)
+- Git 학습 퀴즈 게임 '[꼬깃(GGoGit)](https://github.com/electrohyun/ggogit)' (2026.05. - 2026.06.)
 - Socket.IO 기반 드로잉 웹게임 '[폴리카소(Pollycasso)](https://github.com/modern-agile-team/10term-pollycasso-front)' (2025.09. - 2026.02.)
 
 ## Open Source
