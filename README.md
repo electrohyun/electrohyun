@@ -1,6 +1,6 @@
 ## Hello👋 
 
-I build collaborative real-time experiences and tools that improve the frontend development experience.
+I build collaborative real-time products and tools that improve the frontend development experience.
 
 Previously served as President and Frontend Lead at [Modern Agile 10th](https://github.com/modern-agile-team), a web development community.
 
