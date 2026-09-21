@@ -19,4 +19,4 @@ I am interested in tools that improve the developer experience, so I studied how
 
 More writing is available on [blog](https://eletcrohyun.tistory.com/). 😊
 
-Previous projects: [GGoGit](https://github.com/electrohyun/ggogit) · [Pollycasso](https://github.com/electrohyun/pollycasso)
+Previous projects: [GGoGit](https://github.com/electrohyun/ggogit) · [Pollycasso](https://github.com/modern-agile-team/10term-pollycasso-front)
