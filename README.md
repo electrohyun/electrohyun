@@ -4,8 +4,8 @@ I build collaborative real-time products and tools that improve the frontend dev
 
 Previously served as president and frontend lead at [Modern Agile 10th](https://github.com/modern-agile-team), a web development community.
 
-- [smocket](https://github.com/electrohyun/smocket): A Socket.IO mocking library for frontend development
-- [eslint-plugin-layered-imports](https://github.com/electrohyun/eslint-plugin-layered-imports): An ESLint plugin for enforcing import boundaries between frontend layers
+- [smocket](https://github.com/electrohyun/smocket): Socket.IO mocking library for frontend development
+- [eslint-plugin-layered-imports](https://github.com/electrohyun/eslint-plugin-layered-imports): ESLint plugin for enforcing import boundaries between frontend layers
 
 ## Technical Writing
 
